@@ -28,8 +28,6 @@ I build systems at the intersection of machine learning, computer vision, data, 
 **National Payments Corporation of India** | Sep 2026 - Present
 
 - Automating RuPay business analytics and insight generation.
-- Supporting data-driven decision-making through analytical workflows.
-- Building solutions for business intelligence and operational efficiency.
 
 ### Computer Vision Intern  
 **Preimage** | Dec 2025 - Jun 2026
