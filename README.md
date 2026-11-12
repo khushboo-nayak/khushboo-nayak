@@ -1,16 +1,37 @@
-## Hi there 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Khushboo%20Nayak&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20LangChain%20%7C%20Applied%20ML&descSize=18&descAlignY=58)
 
-<!--
-**khushboo-nayak/khushboo-nayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Khushboo 👋
 
-Here are some ideas to get you started:
+I build practical AI systems with language models, retrieval, tools,
+databases, and human approval workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/khushboo-nayak-925110213/) ·
+[Email](mailto:khushboohp1811@gmail.com)
+
+## Featured Work
+
+### LangChain E-commerce Support Bot
+
+A tool-using support agent with:
+
+- SQL order and payment lookup
+- Policy RAG with ChromaDB
+- Gmail MCP integration
+- Human approval for cancellations and returns
+- LangGraph conversation checkpoints
+
+`Python` `LangChain` `LangGraph` `Streamlit` `SQLite` `ChromaDB`
+
+## What I Build
+
+- Retrieval-augmented generation systems
+- Tool-using AI agents
+- Human-in-the-loop workflows
+- Applied machine learning products
+
+## Tech Stack
+
+`Python` `LangChain` `LangGraph` `OpenAI`
+`SQL` `SQLite` `Streamlit` `Git`
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer)
