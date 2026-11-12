@@ -9,7 +9,7 @@ I build systems at the intersection of machine learning, computer vision, data, 
 🎓 B.Tech. in Mechanical Engineering, IIT Kharagpur  
 📍 Mumbai, India  
 📧 [Email](mailto:khushboohp1811@gmail.com)  
-💼 [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/khushboo-nayak-925110213/))  
+💼 [LinkedIn]([https://www.linkedin.com/in/khushboo-nayak-925110213/])  
 
 ---
 
