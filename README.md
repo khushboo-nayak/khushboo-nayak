@@ -22,38 +22,6 @@ I build systems at the intersection of machine learning, computer vision, data, 
 
 ---
 
-## Experience
-
-### IT Analyst, Business Analytics and Insights  
-**National Payments Corporation of India** | Sep 2026 - Present
-
-- Automating RuPay business analytics and insight generation.
-
-### Computer Vision Intern  
-**Preimage** | Dec 2025 - Jun 2026
-
-- Optimized memory allocation to run a complete rendering pipeline within an 8 GB VRAM limit.
-- Generated realistic 3D rooftop scenes using Infinigen and Blender for synthetic training data.
-- Integrated the local quantized Qwen 3.5 model through `llama-server` to automate progress reports.
-
-### Blockchain Intern  
-**National Payments Corporation of India** | May 2025 - Jun 2025
-
-- Integrated REST server and client components for dynamic code execution using the Yaegi interpreter.
-- Developed an eBPF program for network observability of Hyperledger Fabric Gossip.
-- Used XDP, socket filters, sockops, and eCapture for network and TLS observability.
-
-### Research Intern  
-**Indian Institute of Science, Bengaluru** | May 2024 - Jan 2025
-
-- Researched test-time adaptation for pretrained vision-language models.
-- Reproduced results from the Rosita paper.
-- Improved classifier AUC by 4% using prompt-generated zero-shot weights.
-- Reduced false positive rate by 5% using task arithmetic and mixture-of-experts methods.
-- Reproduced NegLabel in the incremental setting and visualized results using mutual knowledge.
-
----
-
 ## Featured Projects
 
 ### LangChain E-commerce Support Bot
@@ -169,25 +137,6 @@ A classical computer vision project for sparse and dense 3D reconstruction.
 
 ---
 
-## Education
-
-### Indian Institute of Technology Kharagpur
-
-**B.Tech. in Mechanical Engineering**  
-2022 - 2026  
-CGPA: **8.33**
-
-Relevant coursework:
-
-- Programming and Data Structures
-- Intelligent Machines and Systems
-- Soft Computing
-- Robotics
-- Advanced Calculus
-- Linear Algebra
-- Basic Electronics
-
----
 
 ## GitHub Statistics
 
